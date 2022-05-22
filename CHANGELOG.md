@@ -1,7 +1,7 @@
 # Change Log
 
-Ver 0.0.41
+Ver 0.0.43
 
-- Fixed the function colors.
-
-- Initial release
+- Changed the colors of functions.
+  Previous color: Yellow
+  New color: Lilac purple
