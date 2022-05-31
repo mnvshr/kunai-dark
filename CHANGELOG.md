@@ -1,7 +1,5 @@
 # Change Log
 
-Ver 0.0.43
+Ver 0.0.45
 
-- Changed the colors of functions.
-  Previous color: Yellow
-  New color: Lilac purple
+- Support for bracket pair colorization
