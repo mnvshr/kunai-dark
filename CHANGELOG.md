@@ -1,5 +1,10 @@
 # Change Log
 
+Ver 0.0.54
+
+-   The theme is more sublte
+-   Added borders
+
 Ver 0.0.53
 
 -   Complete overhaul.
