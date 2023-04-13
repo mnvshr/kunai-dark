@@ -15,6 +15,10 @@
         "descriptionForeground": "#9DA7BE",
         "errorForeground": "#9DA7BE",
 
+        // welcome
+
+        "welcomePage.background": "#12151B",
+
         // button
 
         "button.background": "#424883",
@@ -1506,10 +1510,23 @@
             }
         },
         {
+            "name": "CSS Class and Support - Property Name",
+            "scope": [
+                "source.css support.type.property-name",
+                "source.sass support.type.property-name",
+                "source.scss support.type.property-name",
+                "source.less support.type.property-name",
+                "source.stylus support.type.property-name",
+                "source.postcss support.type.property-name"
+            ],
+            "settings": {
+                "foreground": "#DE6767"
+            }
+        },
+        {
             "name": "Library type",
             "scope": ["support.type", "entity.name.type.object.console"],
             "settings": {
-                "fontStyle": "italic",
                 "foreground": "#68B3DE"
             }
         },
@@ -1524,7 +1541,7 @@
             "name": "Library type property, JSON keys",
             "scope": "support.type.property-name",
             "settings": {
-                "foreground": "#9DA7BE"
+                "foreground": "#639AE1"
             }
         },
         {
