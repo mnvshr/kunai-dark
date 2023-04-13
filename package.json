@@ -1,0 +1,29 @@
+{
+    "name": "kunai-dark",
+    "displayName": "Kunai Dark",
+    "description": "Functional & Aesthetic",
+    "version": "0.0.54",
+    "publisher": "ManavSharma",
+    "icon": "icon.jpg",
+    "keywords": [
+        "kunai dark"
+    ],
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "author": {
+        "name": "Manav Sharma"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kunai Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kunai Dark-color-theme.json"
+            }
+        ]
+    }
+}
