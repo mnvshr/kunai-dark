@@ -2,7 +2,8 @@
     "name": "kunai-dark",
     "displayName": "Kunai Dark",
     "description": "Functional & Aesthetic",
-    "version": "0.0.55",
+    "version": "0.0.56",
+    "repository": "https://github.com/mnvshr/kunai-dark",
     "publisher": "ManavSharma",
     "icon": "icon.jpg",
     "keywords": [
