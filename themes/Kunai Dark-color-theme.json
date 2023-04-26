@@ -1340,8 +1340,7 @@
             "name": "Types and definition / declaration keywords should use the following scope. Examples include int, bool, char, func, function, class and def. Depending on the language and semantics, const may be this or storage.modifier.",
             "scope": "storage.type",
             "settings": {
-                "fontStyle": "italic",
-                "foreground": "#DE6180"
+                "foreground": "#EDB264"
             }
         },
         {
@@ -1567,7 +1566,7 @@
         {
             "name": "Variable",
             "scope": ["variable", "variable.other"],
-            "settings": { "foreground": "#EDB264" }
+            "settings": { "foreground": "#68B3DE" }
         },
         {
             "name": "Function arguments",
