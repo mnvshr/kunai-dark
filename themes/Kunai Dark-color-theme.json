@@ -1567,7 +1567,7 @@
         {
             "name": "Variable",
             "scope": ["variable", "variable.other"],
-            "settings": { "foreground": "#639AE1" }
+            "settings": { "foreground": "#EDB264" }
         },
         {
             "name": "Function arguments",
